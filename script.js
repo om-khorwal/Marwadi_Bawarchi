@@ -75,10 +75,8 @@ gsap.from(".card",{
         scroller:"body",
         start:"top 70%",
         end:"top 65%",
-        scrub:1
-
+        scrub:2
     },
-
 });
 gsap.from("#colon1",{
     x:-70,
